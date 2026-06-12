@@ -17,7 +17,7 @@ Users can describe a project idea and instantly receive:
 
 ## 🌐 Live Demo
 
-🔗 [https://ai-project-architect-jrr2z9qlh-harsh-kumar-18s-projects.vercel.app/](https://ai-project-architect-nine.vercel.app/)
+🔗 https://ai-project-architect-nine.vercel.app/
 
 ---
 
